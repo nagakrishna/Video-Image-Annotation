@@ -27,18 +27,18 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ![Frame5][Frame5]
 [Frame5]: https://github.com/nagakrishna/Video-Image-Annotation/blob/master/output/mainframes/354_0.002039775624681285.jpg "Frame5"
 
-######Output
-![alt text][image1]
+####Output - Image Annotation
+![image1][image1]
 [image1]: https://github.com/nagakrishna/Video-Image-Annotation/blob/master/output/ImageAnnotation/0.jpg "image 1"
 
-![alt text][image2]
+![image2][image2]
 [image2]: https://github.com/nagakrishna/Video-Image-Annotation/blob/master/output/ImageAnnotation/1.jpg "image 2"
 
-![alt text][image3]
+![image3][image3]
 [image3]: https://github.com/nagakrishna/Video-Image-Annotation/blob/master/output/ImageAnnotation/2.jpg "image 3"
 
-![alt text][image4]
+![image4][image4]
 [image4]: https://github.com/nagakrishna/Video-Image-Annotation/blob/master/output/ImageAnnotation/3.jpg "image 4"
 
-![alt text][image5]
+![image5][image5]
 [image5]: https://github.com/nagakrishna/Video-Image-Annotation/blob/master/output/ImageAnnotation/4.jpg "image 5"
