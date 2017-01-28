@@ -5,6 +5,11 @@ Finding out key frames using OpenImaj and annotating them using Clarifai API
 Use any sample video and extract key frames using KeyFrameDetection Class
 Sent this frames to Clarifai api to get annotations and write those annotation on the image using ImageAnnotation Class
 
+
+#####Input
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dkaw6HKXD6U
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ######Output
 ![alt text][image1]
 [image1]: https://github.com/nagakrishna/Video-Image-Annotation/blob/master/output/ImageAnnotation/0.jpg "image 1"
