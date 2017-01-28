@@ -12,6 +12,8 @@ import org.openimaj.image.MBFImage;
 import org.openimaj.image.colour.RGBColour;
 import org.openimaj.image.typography.hershey.HersheyFont;
 
+import javax.imageio.ImageIO;
+import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
@@ -46,6 +48,14 @@ public class ImageAnnotation {
                 int font = 40 - (j*2);
                 font = font > 10 ? font:10;
                 image.drawText(data.get(j).name(), (int)Math.floor(Math.random()*x), (int) Math.floor(Math.random()*y), HersheyFont.ASTROLOGY, font, RGBColour.RED);
+            }
+            BufferedImage bufferedFrame = ImageUtilities.createBufferedImageForDisplay(image);
+            String name = "output/ImageAnnotation/" + i + ".jpg";
+            File outputFile = new File(name);
+            try {
+                ImageIO.write(bufferedFrame, "jpg", outputFile);
+            } catch (IOException e) {
+                e.printStackTrace();
             }
             DisplayUtilities.displayName(image, "image" + i);
         }
