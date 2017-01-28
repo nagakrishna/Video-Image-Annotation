@@ -6,5 +6,5 @@ Use any sample video and extract key frames using KeyFrameDetection Class
 Sent this frames to Clarifai api to get annotations and write those annotation on the image using ImageAnnotation Class
 
 ######Output
-![alt text][logo]
-[logo]: https://github.com/nagakrishna/Video-Image-Annotation/blob/master/output/mainframes/0_0.2136664966853646.jpg "image 1"
+![alt text][image1]
+[image1]: https://github.com/nagakrishna/Video-Image-Annotation/blob/master/output/ImageAnnotation/0.jpg "image 1"
