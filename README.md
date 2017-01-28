@@ -8,7 +8,7 @@ Sent this frames to Clarifai api to get annotations and write those annotation o
 
 #####Input
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=dkaw6HKXD6U
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="https://github.com/nagakrishna/Video-Image-Annotation/blob/master/output/mainframes/0_0.2136664966853646.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ######Output
 ![alt text][image1]
